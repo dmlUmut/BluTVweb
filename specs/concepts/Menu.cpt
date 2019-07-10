@@ -1,0 +1,61 @@
+# Menuden Emaile gir
+*"UyeGirisi" elementine tıkla
+*"UyeEmail" elementine "dml.umut@hotmail.com" değerini yaz
+*"UyePassword" elementine "Deneme123" değerini yaz
+*"GirisButonu" elementine tıkla
+*"UserMenu" elementine tıkla
+*"UserMenuEmail" elementinin "textContent" niteliği "dml.umut@hotmail.com" değerine eşit mi
+*"UserMenuEmail" elementine tıkla
+
+# Hesabım Bilgilerini kontrol et
+*"HesabımKontrol" elementinin "textContent" niteliği "Hesabım" değerine eşit mi
+*"HesabımIsim" elementinin "value" niteliği "Damla Seker" değerine eşit mi
+*"HesabımEposta" elementinin "value" niteliği "dml.umut@hotmail.com" değerine eşit mi
+*"HesabımSifre" elementinin "type" niteliği "password" değerine eşit mi
+*"HesabımOdeme" elementinin "textContent" niteliği "Ödeme Bilgilerimi Gir" değerine eşit mi
+*"HesabımKuponKodu" elementinin "placeholder" niteliği "Kupon Kodu" değerine eşit mi
+
+# Hesabın Ad Soyad bilgilerini degistir
+*"DegistirIptalbtn" elementine tıkla
+*"HesabımIsim" elementine "Damla Umut Seker" değerini yaz
+*"HesabımIsimDegistirKaydetbtn" elementine tıkla
+*"UserChangePopup" elementi var mı
+*"HesabımIsim" elementinin "value" niteliği "Damla Umut Seker" değerine eşit mi
+*"DegistirIptalbtn" elementine tıkla
+*"DegistirIptalbtn" elementine tıkla
+*"HesabımIsim" elementinin "value" niteliği "Damla Umut Seker" değerine eşit mi
+*"DegistirIptalbtn" elementine tıkla
+*"HesabımIsim" elementine "Damla Seker" değerini yaz
+*"HesabımIsimDegistirKaydetbtn" elementine tıkla
+*"UserChangePopup" elementi var mı
+*"HesabımIsim" elementinin "value" niteliği "Damla Seker" değerine eşit mi
+
+# Hesabın Ödeme Bilgilerini gir
+*"UserPayBtn" elementine tıkla
+*"CardNumber" elementine "1111222233334444" değerini yaz
+*"CardName" elementine "Damla Seker" değerini yaz
+/*"CardMonth" elementine "10" değerini yaz
+/*"CardYear" elementine "2022" değerini yaz
+*"CardCvc" elementine "159" değerini yaz
+*"CardContract" elementine tıkla
+*"CardSave" elementine tıkla
+/*"CardErrorPopup" elementi var mı
+*"CardClose" elementine tıkla
+
+# Menuden Izleme Listesine gir
+*"UyeGirisi" elementine tıkla
+*"UyeEmail" elementine "dml.umut@hotmail.com" değerini yaz
+*"UyePassword" elementine "Deneme123" değerini yaz
+*"GirisButonu" elementine tıkla
+*"UserMenu" elementine tıkla
+*"IzlemeList" elementine tıkla
+*"IzlemeListPage" elementinin "textContent" niteliği "Listeme Ekle" değerine eşit mi
+
+#Menuden Kiradaladıklarım sayfasına git
+*"UyeGirisi" elementine tıkla
+*"UyeEmail" elementine "dml.umut@hotmail.com" değerini yaz
+*"UyePassword" elementine "Deneme123" değerini yaz
+*"GirisButonu" elementine tıkla
+*"UserMenu" elementine tıkla
+*"MenuKiraladıklarım" elementine tıkla
+*"KiraladıklarımPage" elementinin "textContent" niteliği "Kirala & İzle" değerine eşit mi

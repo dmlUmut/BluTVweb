@@ -1,0 +1,208 @@
+#BarMenü kontrol et
+*"btnFilm" elementi var mı
+*"btnDizi" elementi var mı
+*"btnCocuk" elementi var mı
+*"btnCanli" elementi var mı
+*"btnKirala" elementi var mı
+*"Searchbar" elementi var mı
+
+#BarMenü film butonuna tıkla
+*"btnFilm" elementi var mı
+*"btnFilm" elementine tıkla
+
+#Film popup kontrol et
+*"btnPopupAile" elementi var mı
+*"btnPopupAile" elementinin "textContent" niteliği "Aile" değerine eşit mi
+*"btnPopupAksiyon" elementi var mı
+*"btnPopupAksiyon" elementinin "textContent" niteliği "Aksiyon - Macera" değerine eşit mi
+*"btnPopupAnimasyon" elementi var mı
+*"btnPopupAnimasyon" elementinin "textContent" niteliği "Animasyon" değerine eşit mi
+*"btnPopupBelgesel" elementi var mı
+*"btnPopupBelgesel" elementinin "textContent" niteliği "Belgesel" değerine eşit mi
+*"btnPopupBiyografi" elementi var mı
+*"btnPopupBiyografi" elementinin "textContent" niteliği "Biyografi" değerine eşit mi
+*"btnPopupDrama" elementi var mı
+*"btnPopupDrama" elementinin "textContent" niteliği "Drama" değerine eşit mi
+*"btnPopupDunya" elementi var mı
+*"btnPopupDunya" elementinin "textContent" niteliği "Dünya Sineması" değerine eşit mi
+*"btnPopupFantastik" elementi var mı
+*"btnPopupFantastik" elementinin "textContent" niteliği "Fantastik - Bilim K." değerine eşit mi
+*"btnPopupFestival" elementi var mı
+*"btnPopupFestival" elementinin "textContent" niteliği "Festival" değerine eşit mi
+*"btnPopupGizem" elementi var mı
+*"btnPopupGizem" elementinin "textContent" niteliği "Gizem" değerine eşit mi
+*"btnPopupKısa" elementi var mı
+*"btnPopupKısa" elementinin "textContent" niteliği "Kısa Film" değerine eşit mi
+*"btnPopupKlasik" elementi var mı
+*"btnPopupKlasik" elementinin "textContent" niteliği "Klasik" değerine eşit mi
+*"btnPopupKomedi" elementi var mı
+*"btnPopupKomedi" elementinin "textContent" niteliği "Komedi" değerine eşit mi
+*"btnPopupKorku" elementi var mı
+*"btnPopupKorku" elementinin "textContent" niteliği "Korku - Gerilim" değerine eşit mi
+*"btnPopupPolisiye" elementi var mı
+*"btnPopupPolisiye" elementinin "textContent" niteliği "Polisiye - Suç" değerine eşit mi
+*"btnPopupRomantik" elementi var mı
+*"btnPopupRomantik" elementinin "textContent" niteliği "Romantik" değerine eşit mi
+*"btnPopupSavas" elementi var mı
+*"btnPopupSavas" elementinin "textContent" niteliği "Savaş" değerine eşit mi
+*"btnPopupTarih" elementi var mı
+*"btnPopupTarih" elementinin "textContent" niteliği "Tarih" değerine eşit mi
+
+#Sıralama popupını kontrol et
+*"btnSiralama" elementi var mı
+*"btnSiralama" elementine tıkla
+*"btnSiralamaIMDB" elementi var mı
+*"btnSiralamaIMDB" elementinin "textContent" niteliği "IMDB Puanı" değerine eşit mi
+*"btnSiralamaBluTV" elementi var mı
+*"btnSiralamaBluTV" elementinin "textContent" niteliği "BluTV Sıralaması" değerine eşit mi
+*"btnSiralamaYapım" elementi var mı
+*"btnSiralamaYapım" elementinin "textContent" niteliği "Yapım Yılı" değerine eşit mi
+*"btnSiralamaEklenme" elementi var mı
+*"btnSiralamaEklenme" elementinin "textContent" niteliği "Eklenme Tarihi" değerine eşit mi
+
+#Aile filmleri sayfasını kontrol et
+*"btnPopupAile" elementi var mı
+*"btnPopupAile" elementine tıkla
+*"AilePageTitle" elementinin "textContent" niteliği "Aile Filmleri" değerine eşit mi
+*"btnYerli" elementine tıkla
+*"btnYabanci" elementine tıkla
+
+#Aksiyon-Macera filmleri sayfasını kontrol et
+*"btnPopupAksiyon" elementi var mı
+*"btnPopupAksiyon" elementine tıkla
+*"AksiyonPageTitle" elementinin "textContent" niteliği "Aksiyon - Macera Filmleri" değerine eşit mi
+*"btnYerli" elementine tıkla
+*"btnYabanci" elementine tıkla
+
+#Animasyon filmleri sayfasını kontrol et
+*"btnPopupAnimasyon" elementi var mı
+*"btnPopupAnimasyon" elementine tıkla
+*"AnimasyonPageTitle" elementinin "textContent" niteliği "Animasyon Filmleri" değerine eşit mi
+*"btnYerli" elementine tıkla
+*"btnYabanci" elementine tıkla
+
+#Belgesel filmleri sayfasını kontrol et
+*"btnPopupBelgesel" elementi var mı
+*"btnPopupBelgesel" elementine tıkla
+*"BelgeselPageTitle" elementinin "textContent" niteliği "Belgesel" değerine eşit mi
+*"btnBelgesel" elementi var mı
+
+#Biyografi filmleri sayfasını kontrol et
+*"btnPopupBiyografi" elementi var mı
+*"btnPopupBiyografi" elementine tıkla
+*"BiyografiPageTitle" elementinin "textContent" niteliği "Biyografi Filmleri" değerine eşit mi
+*"btnYerli" elementine tıkla
+*"btnYabanci" elementine tıkla
+
+#Drama filmleri sayfasını kontrol et
+*"btnPopupDrama" elementi var mı
+*"btnPopupDrama" elementine tıkla
+*"DramaPageTitle" elementinin "textContent" niteliği "Drama Filmleri" değerine eşit mi
+*"btnYerli" elementine tıkla
+*"btnYabanci" elementine tıkla
+
+#Dünya Sineması filmleri sayfasını kontrol et
+*"btnPopupDunya" elementi var mı
+*"btnPopupDunya" elementine tıkla
+*"DunyaPageTitle" elementinin "textContent" niteliği "Dünya Sineması Filmleri" değerine eşit mi
+*"btnYerli" elementine tıkla
+*"btnYabanci" elementine tıkla
+
+#Fantastik filmleri sayfasını kontrol et
+*"btnPopupFantastik" elementi var mı
+*"btnPopupFantastik" elementine tıkla
+*"FantastikPageTitle" elementinin "textContent" niteliği "Fantastik - Bilim K. Filmleri" değerine eşit mi
+*"btnYerli" elementine tıkla
+*"btnYabanci" elementine tıkla
+
+#Festival filmleri sayfasını kontrol et
+*"btnPopupFestival" elementi var mı
+*"btnPopupFestival" elementine tıkla
+*"FestivalPageTitle" elementinin "textContent" niteliği "Festival Filmleri" değerine eşit mi
+*"btnYerli" elementine tıkla
+*"btnYabanci" elementine tıkla
+
+#Gizem filmleri sayfasını kontrol et
+*"btnPopupGizem" elementi var mı
+*"btnPopupGizem" elementine tıkla
+*"GizemPageTitle" elementinin "textContent" niteliği "Gizem Filmleri" değerine eşit mi
+*"btnYerli" elementine tıkla
+*"btnYabanci" elementine tıkla
+
+#Kısa film sayfasını kontrol et
+*"btnPopupKısa" elementi var mı
+*"btnPopupKısa" elementine tıkla
+*"KisaPageTitle" elementinin "textContent" niteliği "Kısa Film Filmleri" değerine eşit mi
+*"btnYerli" elementine tıkla
+*"btnYabanci" elementine tıkla
+
+#Klasik film sayfasını kontrol et
+*"btnPopupKlasik" elementi var mı
+*"btnPopupKlasik" elementine tıkla
+*"KlasikPageTitle" elementinin "textContent" niteliği "Klasik Filmleri" değerine eşit mi
+*"btnYerli" elementine tıkla
+*"btnYabanci" elementine tıkla
+
+#Komedi film sayfasını kontrol et
+*"btnPopupKomedi" elementi var mı
+*"btnPopupKomedi" elementine tıkla
+*"KomediPageTitle" elementinin "textContent" niteliği "Komedi Filmleri" değerine eşit mi
+*"btnYerli" elementine tıkla
+*"btnYabanci" elementine tıkla
+
+#Korku film sayfasını kontrol et
+*"btnPopupKorku" elementi var mı
+*"btnPopupKorku" elementine tıkla
+*"KorkuPageTitle" elementinin "textContent" niteliği "Korku - Gerilim Filmleri" değerine eşit mi
+*"btnYerli" elementine tıkla
+*"btnYabanci" elementine tıkla
+
+#Polisiye film sayfasını kontrol et
+*"btnPopupPolisiye" elementi var mı
+*"btnPopupPolisiye" elementine tıkla
+*"PolisiyePageTitle" elementinin "textContent" niteliği "Polisiye - Suç Filmleri" değerine eşit mi
+*"btnYerli" elementine tıkla
+*"btnYabanci" elementine tıkla
+
+#Romantik film sayfasını kontrol et
+*"btnPopupRomantik" elementi var mı
+*"btnPopupRomantik" elementine tıkla
+*"RomantikPageTitle" elementinin "textContent" niteliği "Romantik Filmleri" değerine eşit mi
+*"btnYerli" elementine tıkla
+*"btnYabanci" elementine tıkla
+
+#Savaş film sayfasını kontrol et
+*"btnPopupSavas" elementi var mı
+*"btnPopupSavas" elementine tıkla
+*"SavasPageTitle" elementinin "textContent" niteliği "Savaş Filmleri" değerine eşit mi
+*"btnYerli" elementine tıkla
+*"btnYabanci" elementine tıkla
+
+#Tarih film sayfasını kontrol et
+*"btnPopupTarih" elementi var mı
+*"btnPopupTarih" elementine tıkla
+*"TarihPageTitle" elementinin "textContent" niteliği "Tarih Filmleri" değerine eşit mi
+*"btnYerli" elementine tıkla
+*"btnYabanci" elementine tıkla
+
+#Dizi butonuna tıkla
+*"btnDizi" elementi var mı
+*"btnDizi" elementine tıkla
+*"DiziPageTitle" elementinin "textContent" niteliği "Diziler" değerine eşit mi
+*"btnYerli" elementi var mı
+*"btnYabanci" elementi var mı
+
+#Çocuk butonuna tıkla
+*"btnCocuk" elementi var mı
+*"btnCocuk" elementine tıkla
+*"CocukPageTitle" elementinin "textContent" niteliği "Çocuk" değerine eşit mi
+
+#CanlıTV butonuna tıkla
+*"btnCanli" elementi var mı
+*"btnCanli" elementine tıkla
+*"CanliPage" elementinin "className" niteliği "live-container" değerine eşit mi
+
+#Kirala butonuna tıkla
+*"btnKirala" elementi var mı
+*"btnKirala" elementine tıkla
+*"KiralaPage" elementinin "className" niteliği "container page" değerine eşit mi

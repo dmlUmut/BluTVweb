@@ -1,0 +1,492 @@
+[
+  {
+    "key": "UyeGirisi",
+    "value": "header_login",
+    "type": "id"
+  },
+  {
+    "key": "UyeEmail",
+    "value": "loginform_email",
+    "type": "id"
+  },
+  {
+    "key": "UyePassword",
+    "value": "loginform_password",
+    "type": "id"
+  },
+  {
+    "key": "GirisButonu",
+    "value": "loginform_submit",
+    "type": "id"
+  },
+  {
+    "key": "BluTVlogo",
+    "value": "div>a[class='blutv-logo white imageload']",
+    "type": "css"
+  },
+  {
+    "key": "NotLoginPopup",
+    "value": "div.alert-message",
+    "type": "css"
+  },
+  {
+    "key": "rememberMe",
+    "value": "div>label[class='item item-field is-checkbox']",
+    "type": "css"
+  },
+  {
+    "key": "rememberMeChecked",
+    "value": "div>label>input[class='ng-valid ng-dirty ng-valid-parse ng-not-empty ng-touched']",
+    "type": "css"
+  },
+  {
+    "key": "rememberMeNotChecked",
+    "value": "div>label>input[class='ng-valid ng-dirty ng-valid-parse ng-empty ng-touched']",
+    "type": "css"
+  },
+  {
+    "key": "cıkısButon",
+    "value": "div>a.UserMenu_logout_1c6Cr",
+    "type": "css"
+  },
+  {
+    "key": "UserMenu",
+    "value": "div.UserMenu_avatar_1pGJY.UserMenu_notification_3N3sx",
+    "type": "css"
+  },
+  {
+    "key": "UserMenuEmail",
+    "value": "div>a.UserMenu_hesabimBtn_3suLc>span.UserMenu_accountUserName_3YjfY",
+    "type": "css"
+  },
+  {
+    "key": "HesabımKontrol",
+    "value": "div>h2",
+    "type": "css"
+  },
+  {
+    "key": "HesabımIsim",
+    "value": "div>div:nth-child(2)>div>div:nth-child(1)>form>label>div>div.el-form-item.is-required>div>div>input[name='inputFirst']",
+    "type": "css"
+  },
+  {
+    "key": "HesabımEposta",
+    "value": "div>div:nth-child(2)>div>div:nth-child(2)>form>label>div> div.el-form-item.is-required>div>div>input[name='inputFirst']",
+    "type": "css"
+  },
+  {
+    "key": "HesabımSifre",
+    "value": "div>div:nth-child(2)>div>div:nth-child(3)>form>label>div> div.el-form-item.is-required>div>div>input[name='inputFirst']",
+    "type": "css"
+  },
+  {
+    "key": "HesabımOdeme",
+    "value": "div.payment-type-undefined",
+    "type": "css"
+  },
+  {
+    "key": "HesabımOdemeButon",
+    "value": "div.payment-type-undefined>button",
+    "type": "css"
+  },
+  {
+    "key": "HesabımKuponKodu",
+    "value": "div>div:nth-child(4)>div>div>form>label>div>div.el-form-item.is-required>div>div>input[placeholder='Kupon Kodu']",
+    "type": "css"
+  },
+  {
+    "key": "DegistirIptalbtn",
+    "value": "div>div:nth-child(2)>div>div:nth-child(1)>form>label>div.inputContent>button[class='btn-text']",
+    "type": "css"
+  },
+  {
+    "key": "HesabımIsimDegistirKaydetbtn",
+    "value": "div>div:nth-child(2)>div>div:nth-child(1)>form[class='el-form input-form']>button",
+    "type": "css"
+  },
+  {
+    "key": "UserChangePopup",
+    "value": "div>div:nth-child(5)>div>div.section-head.success>span>i[class='fa fa-check-circle']",
+    "type": "css"
+  },
+  {
+    "key": "UserPayBtn",
+    "value": "div>div:nth-child(3)>div>div>button[class='btn']",
+    "type": "css"
+  },
+  {
+    "key": "CardNumber",
+    "value": "div>input[name='cardNumber']",
+    "type": "css"
+  },
+  {
+    "key": "CardName",
+    "value": "div>input[name='holderName']",
+    "type": "css"
+  },
+  {
+    "key": "CardMonth",
+    "value": "div>input[name='expireMonth']",
+    "type": "css"
+  },
+  {
+    "key": "CardYear",
+    "value": "div>input[name='expireYear']",
+    "type": "css"
+  },
+  {
+    "key": "CardCvc",
+    "value": "div>input[name='ccv']",
+    "type": "css"
+  },
+  {
+    "key": "CardContract",
+    "value": "div.info-check-wrapper>input[name='onBilgilendirme']",
+    "type": "css"
+  },
+  {
+    "key": "CardSave",
+    "value": "div>div.modal-body>form>div.update-btn-container>button[class='btn']",
+    "type": "css"
+  },
+  {
+    "key": "CardErrorPopup",
+    "value": "div.modal-body>div.card-error-message",
+    "type": "css"
+  },
+  {
+    "key": "CardClose",
+    "value": "div>button>i[class='icon icon-exit']",
+    "type": "css"
+  },
+  {
+    "key": "IzlemeList",
+    "value": "body>header>div>div>div>div.UserMenu_detailContainer_24zFs>div>div.UserMenu_detailTop_1uYwu>a.UserMenu_izlemeBtn_3MRQO",
+    "type": "css"
+  },
+  {
+    "key": "IzlemeListPage",
+    "value": "body>main>div>div>div:nth-child(1)>div>p:nth-child(2)>span[class='info']",
+    "type": "css"
+  },
+  {
+    "key": "MenuKiraladıklarım",
+    "value": "body>header>div>div>div>div.UserMenu_detailContainer_24zFs>div>div.UserMenu_detailTop_1uYwu>a.UserMenu_myRent_4axFL",
+    "type": "css"
+  },
+  {
+    "key": "KiraladıklarımPage",
+    "value": "body>main>div>div>div:nth-child(1)>div>p:nth-child(2)>a[href='/kirala']",
+    "type": "css"
+  },
+  {
+    "key": "SessionPopupClose",
+    "value": "body>div.modal.center.session-modal.am-fade>div>div>div.modal-header>button[class='close']",
+    "type": "css"
+  },
+  {
+    "key": "SessionPopupText",
+    "value": "body>div.modal.center.session-modal.am-fade>div>div>div.modal-body",
+    "type": "css"
+  },
+  {
+    "key": "btnFilm",
+    "value": "header_film",
+    "type": "id"
+  },
+  {
+    "key": "btnDizi",
+    "value": "header_dizi",
+    "type": "id"
+  },
+  {
+    "key": "btnCocuk",
+    "value": "header_cocuk",
+    "type": "id"
+  },
+  {
+    "key": "btnCanli",
+    "value": "header_canli-yayin",
+    "type": "id"
+  },
+  {
+    "key": "btnKirala",
+    "value": "header_kirala",
+    "type": "id"
+  },
+  {
+    "key": "Searchbar",
+    "value": "header_search",
+    "type": "id"
+  },
+  {
+    "key": "btnPopupAile",
+    "value": "header_aile-filmleri",
+    "type": "id"
+  },
+  {
+    "key": "btnPopupAksiyon",
+    "value": "header_aksiyon-macera-filmleri",
+    "type": "id"
+  },
+  {
+    "key": "btnPopupAnimasyon",
+    "value": "header_animasyon-filmleri",
+    "type": "id"
+  },
+  {
+    "key": "btnPopupBelgesel",
+    "value": "header_belgesel",
+    "type": "id"
+  },
+  {
+    "key": "btnPopupBiyografi",
+    "value": "header_biyografi-filmleri",
+    "type": "id"
+  },
+  {
+    "key": "btnPopupDrama",
+    "value": "header_drama-filmleri",
+    "type": "id"
+  },
+  {
+    "key": "btnPopupDunya",
+    "value": "header_dunya-sinemasi-filmleri",
+    "type": "id"
+  },
+  {
+    "key": "btnPopupFantastik",
+    "value": "header_fantastik-bilim-kurgu-filmleri",
+    "type": "id"
+  },
+  {
+    "key": "btnPopupFestival",
+    "value": "header_festival-filmleri",
+    "type": "id"
+  },
+  {
+    "key": "btnPopupGizem",
+    "value": "header_gizem-filmleri",
+    "type": "id"
+  },
+  {
+    "key": "btnPopupKısa",
+    "value": "header_kisa-filmler",
+    "type": "id"
+  },
+  {
+    "key": "btnPopupKlasik",
+    "value": "header_klasik-filmler",
+    "type": "id"
+  },
+  {
+    "key": "btnPopupKomedi",
+    "value": "header_komedi-filmleri",
+    "type": "id"
+  },
+  {
+    "key": "btnPopupKorku",
+    "value": "header_korku-gerilim-filmleri",
+    "type": "id"
+  },
+  {
+    "key": "btnPopupPolisiye",
+    "value": "header_polisiye-suc-filmleri",
+    "type": "id"
+  },
+  {
+    "key": "btnPopupRomantik",
+    "value": "header_romantik-filmler",
+    "type": "id"
+  },
+  {
+    "key": "btnPopupSavas",
+    "value": "header_savas-filmleri",
+    "type": "id"
+  },
+  {
+    "key": "btnPopupTarih",
+    "value": "header_tarih-filmleri",
+    "type": "id"
+  },
+  {
+    "key": "btnYerli",
+    "value": "yerli",
+    "type": "id"
+  },
+  {
+    "key": "btnYabanci",
+    "value": "yabanci",
+    "type": "id"
+  },
+  {
+    "key": "btnSiralama",
+    "value": "category_siralama",
+    "type": "id"
+  },
+  {
+    "key": "btnSiralamaIMDB",
+    "value": "siralama_ImdbRating",
+    "type": "id"
+  },
+  {
+    "key": "btnSiralamaBluTV",
+    "value": "siralama_Rating",
+    "type": "id"
+  },
+  {
+    "key": "btnSiralamaYapım",
+    "value": "siralama_MadeYear",
+    "type": "id"
+  },
+  {
+  "key": "btnSiralamaEklenme",
+  "value": "siralama_StartDate",
+  "type": "id"
+  },
+  {
+    "key": "btnBelgesel",
+    "value": "siralama_turler",
+    "type": "id"
+  },
+  {
+    "key": "AilePageTitle",
+    "value": "body>main>div>h2[ng-title='Aile Filmleri']",
+    "type": "css"
+  },
+  {
+    "key": "AksiyonPageTitle",
+    "value": "body>main>div>h2[ng-title='Aksiyon - Macera Filmleri']",
+    "type": "css"
+  },
+  {
+    "key": "AnimasyonPageTitle",
+    "value": "body>main>div>h2[ng-title='Animasyon Filmleri']",
+    "type": "css"
+  },
+  {
+    "key": "BelgeselPageTitle",
+    "value": "body>main>div>h2[ng-title='Belgesel']",
+    "type": "css"
+  },
+  {
+    "key": "BiyografiPageTitle",
+    "value": "body>main>div>h2[ng-title='Biyografi Filmleri']",
+    "type": "css"
+  },
+  {
+    "key": "DramaPageTitle",
+    "value": "body>main>div>h2[ng-title='Drama Filmleri']",
+    "type": "css"
+  },
+  {
+    "key": "DunyaPageTitle",
+    "value": "body>main>div>h2[ng-title='Dünya Sineması Filmleri']",
+    "type": "css"
+  },
+  {
+    "key": "FantastikPageTitle",
+    "value": "body>main>div>h2[ng-title='Fantastik - Bilim K. Filmleri']",
+    "type": "css"
+  },
+  {
+    "key": "FestivalPageTitle",
+    "value": "body>main>div>h2[ng-title='Festival Filmleri']",
+    "type": "css"
+  },
+  {
+    "key": "GizemPageTitle",
+    "value": "body>main>div>h2[ng-title='Gizem Filmleri']",
+    "type": "css"
+  },
+  {
+    "key": "KisaPageTitle",
+    "value": "body>main>div>h2[ng-title='Kısa Film Filmleri']",
+    "type": "css"
+  },
+  {
+    "key": "KlasikPageTitle",
+    "value": "body>main>div>h2[ng-title='Klasik Filmleri']",
+    "type": "css"
+  },
+  {
+    "key": "KomediPageTitle",
+    "value": "body>main>div>h2[ng-title='Komedi Filmleri']",
+    "type": "css"
+  },
+  {
+    "key": "KorkuPageTitle",
+    "value": "body>main>div>h2[ng-title='Korku - Gerilim Filmleri']",
+    "type": "css"
+  },
+  {
+    "key": "PolisiyePageTitle",
+    "value": "body>main>div>h2[ng-title='Polisiye - Suç Filmleri']",
+    "type": "css"
+  },
+  {
+    "key": "RomantikPageTitle",
+    "value": "body>main>div>h2[ng-title='Romantik Filmleri']",
+    "type": "css"
+  },
+  {
+    "key": "SavasPageTitle",
+    "value": "body>main>div>h2[ng-title='Savaş Filmleri']",
+    "type": "css"
+  },
+  {
+    "key": "TarihPageTitle",
+    "value": "body>main>div>h2[ng-title='Tarih Filmleri']",
+    "type": "css"
+  },
+  {
+    "key": "DiziPageTitle",
+    "value": "body>main>div>h2[ng-title='Diziler']",
+    "type": "css"
+  },
+  {
+    "key": "CocukPageTitle",
+    "value": "body>main>div>h2[ng-title='Çocuk']",
+    "type": "css"
+  },
+  {
+    "key": "CanliPage",
+    "value": "body>main>div:nth-child(2)>div.live-container",
+    "type": "css"
+  },
+  {
+    "key": "KiralaPage",
+    "value": "body>main[class='container page']",
+    "type": "css"
+  },
+  {
+    "key": "SearchPageTumu",
+    "value": "search-result-tumu",
+    "type": "css"
+  },
+  {
+    "key": "SearchPageFilm",
+    "value": "search-result-movies",
+    "type": "css"
+  },
+  {
+    "key": "txtSearchPage",
+    "value": "div>div.search-input>label[class='item is-search search-disable']",
+    "type": "css"
+  },
+  {
+    "key": "SearchPageDizi",
+    "value": "search-result-series",
+    "type": "css"
+  },
+  {
+    "key": "SearchPageYonetmen",
+    "value": "search-result-person",
+    "type": "css"
+  },
+  {
+    "key": "SearchPageClose",
+    "value": "div>a[class='search-close']",
+    "type": "css"
+  }
+]

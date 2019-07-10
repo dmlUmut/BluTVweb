@@ -1,0 +1,30 @@
+# <email> emaili ve <password> sifresi ile giris yap
+*"UyeGirisi" elementine tıkla
+*"UyeEmail" elementine <email> değerini yaz
+*"UyePassword" elementine <password> değerini yaz
+*"GirisButonu" elementine tıkla
+
+#Doğru giriş yapıldı
+*"BluTVlogo" elementi var mı
+
+#Giriş yapılamadı
+*"NotLoginPopup" elementi var mı
+
+#Beni Hatırla butonunu kontrol et
+*"UyeGirisi" elementine tıkla
+*"rememberMe" elementine tıkla
+*"UyeEmail" elementine "dml.umut@hotmail.com" değerini yaz
+*"UyePassword" elementine "Deneme123" değerini yaz
+*"GirisButonu" elementine tıkla
+
+#Çıkış yap
+*"UserMenu" elementine tıkla
+*"cıkısButon" elementine tıkla
+*"BluTVlogo" elementi var mı
+
+#Oturum sonlandırma popupını kontrol et
+*"SessionPopupClose" elementi var mı
+*"SessionPopupText" elementinin "textContent" niteliği "BluTV üzerindeki oturumunuz sonlandırıldı. Devam etmek için lütfen tekrar giriş yapınız." değerine eşit mi
+*"SessionPopupClose" elementine tıkla
+*"BluTVlogo" elementi var mı
+*"UyeEmail" elementinin "textContent" niteliği "dml.umut@hotmail.com" değerine eşit mi
