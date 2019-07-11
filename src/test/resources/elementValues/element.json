@@ -488,5 +488,35 @@
     "key": "SearchPageClose",
     "value": "div>a[class='search-close']",
     "type": "css"
+  },
+  {
+    "key": "txtRegisterName",
+    "value": "registerform_name",
+    "type": "id"
+  },
+  {
+    "key": "txtRegisterEmail",
+    "value": "registerform_email",
+    "type": "id"
+  },
+  {
+    "key": "txtRegisterSifre",
+    "value": "registerform_password",
+    "type": "id"
+  },
+  {
+    "key": "FormCheckbox",
+    "value": "registerform_accesscheckbox",
+    "type": "id"
+  },
+  {
+    "key": "btnRegister",
+    "value": "registerform_submit",
+    "type": "id"
+  },
+  {
+    "key": "RegisterError",
+    "value": "body>div:nth-child(6)>div>div>div[class='alert-message']",
+    "type": "css"
   }
 ]

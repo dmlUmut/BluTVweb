@@ -1,0 +1,13 @@
+#<RegisterIsim> üye ismini yaz
+*"txtRegisterName" elementine <RegisterIsim> değerini yaz
+
+#<RegisterEposta> üye mailini yaz
+*"txtRegisterEmail" elementine <RegisterEposta> değerini yaz
+
+#<RegisterPassword> üye şifresini yaz
+*"txtRegisterSifre" elementine <RegisterPassword> değerini yaz
+
+#Eposta hata popupını kontrol et
+*"FormCheckbox" elementine tıkla
+*"btnRegister" elementine tıkla
+*"RegisterError" elementinin "outerText" niteliği "E-posta adresi başka bir üyeliğe kayıtlı." değerine eşit mi
