@@ -10,4 +10,49 @@
 #Eposta hata popupını kontrol et
 *"FormCheckbox" elementine tıkla
 *"btnRegister" elementine tıkla
-*"RegisterError" elementinin "outerText" niteliği "E-posta adresi başka bir üyeliğe kayıtlı." değerine eşit mi
+*"RegisterError" elementi var mı
+
+#Yeni üye alanını kontrol et
+*"txtRegisterName" elementi var mı
+*"txtRegisterEmail" elementi var mı
+*"txtRegisterSifre" elementi var mı
+*"btnRegister" elementi var mı
+*"btnIletisimIzni" elementi var mı
+*"btnIletisimIzni" elementine tıkla
+*"IletisimTitle" elementinin "textContent" niteliği "İletişim İzinleri" değerine eşit mi
+*"IletisimBody" elementi var mı
+*"IletisimClose" elementi var mı
+*"IletisimClose" elementine tıkla
+*"btnUyelikSozlesme" elementi var mı
+
+#BarMenü alanını kontrol et
+*"BluTVlogo" elementi var mı
+*"UyeGirisi" elementi var mı
+*"btnFilm" elementi var mı
+*"btnDizi" elementi var mı
+*"btnCocuk" elementi var mı
+*"btnCanli" elementi var mı
+*"btnKirala" elementi var mı
+*"Searchbar" elementi var mı
+
+#FooterMenü alanını kontrol et
+*"FooterKupon" elementi var mı
+*"FooterKupon" elementinin "textContent" niteliği "Kupon Kodu" değerine eşit mi
+*"FooterGizlilik" elementi var mı
+*"FooterGizlilik" elementinin "textContent" niteliği "Gizlilik Politikası" değerine eşit mi
+*"FooterAydınlatma" elementi var mı
+*"FooterAydınlatma" elementinin "textContent" niteliği "Aydınlatma İlkeleri" değerine eşit mi
+*"FooterApple" elementi var mı
+*"FooterAndroid" elementi var mı
+*"FooterFacebook" elementi var mı
+*"FooterTwitter" elementi var mı
+*"FooterInstagram" elementi var mı
+*"FooterYoutube" elementi var mı
+*"FooterYardım" elementi var mı
+
+#Eposta popupını kontrol et
+*"txtRegisterEmailPopup" elementi var mı
+*"txtRegisterEmailGmail" elementi var mı
+*"txtRegisterEmailHotmail" elementi var mı
+*"txtRegisterEmailYahoo" elementi var mı
+*"txtRegisterEmailHotmail" elementine tıkla

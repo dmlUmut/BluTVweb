@@ -500,8 +500,43 @@
     "type": "id"
   },
   {
+    "key": "txtRegisterEmailPopup",
+    "value": "div>label:nth-child(2)>ol[class='email-results']",
+    "type": "css"
+  },
+  {
+    "key": "txtRegisterEmailGmail",
+    "value": "div>label:nth-child(2)>ol>li:nth-child(1)",
+    "type": "css"
+  },
+  {
+    "key": "txtRegisterEmailHotmail",
+    "value": "div>label:nth-child(2)>ol>li:nth-child(2)",
+    "type": "css"
+  },
+  {
+    "key": "txtRegisterEmailYahoo",
+    "value": "div>label:nth-child(2)>ol>li:nth-child(3)",
+    "type": "css"
+  },
+  {
     "key": "txtRegisterSifre",
     "value": "registerform_password",
+    "type": "id"
+  },
+  {
+    "key": "txtRegisterEye",
+    "value": "registerform_password_eyes",
+    "type": "id"
+  },
+  {
+    "key": "popupEksikKarakter",
+    "value": "div>label.item.item-focus.item-stacked.col-p-12.col-tp-4.col-tl-4.col-d-4.has-error>span:nth-child(5)",
+    "type": "id"
+  },
+  {
+    "key": "popupSifrenizHata",
+    "value": "div>label.item.item-focus.item-stacked.col-p-12.col-tp-4.col-tl-4.col-d-4.has-error>span:nth-child(4)",
     "type": "id"
   },
   {
@@ -518,5 +553,95 @@
     "key": "RegisterError",
     "value": "body>div:nth-child(6)>div>div>div[class='alert-message']",
     "type": "css"
+  },
+  {
+    "key": "btnIletisimIzni",
+    "value": "a[ng-click='showContactAccess()']",
+    "type": "css"
+  },
+  {
+    "key": "btnUyelikSozlesme",
+    "value": "a[ng-click='showUser()']",
+    "type": "css"
+  },
+  {
+    "key": "IletisimBody",
+    "value": "div.modal-body",
+    "type": "css"
+  },
+  {
+    "key": "IletisimTitle",
+    "value": "div.modal-header>h4[class='modal-title']",
+    "type": "css"
+  },
+  {
+    "key": "IletisimClose",
+    "value": "div.modal-header>button[class='close']",
+    "type": "css"
+  },
+  {
+    "key": "SozlesmeBody",
+    "value": "div.modal-body",
+    "type": "css"
+  },
+  {
+    "key": "SozlesmeTitle",
+    "value": "div.modal-header>h4[class='modal-title']",
+    "type": "css"
+  },
+  {
+    "key": "SozlesmeClose",
+    "value": "div.modal-header>button[class='close']",
+    "type": "css"
+  },
+  {
+    "key": "FooterKupon",
+    "value": "footer_link_kupon",
+    "type": "id"
+  },
+  {
+    "key": "FooterGizlilik",
+    "value": "footer_link_gp",
+    "type": "id"
+  },
+  {
+    "key": "FooterAydınlatma",
+    "value": "footer_link_ai",
+    "type": "id"
+  },
+  {
+    "key": "FooterApple",
+    "value": "footer>div>nav>a.apple>em[class='icon icon-footer-apple']",
+    "type": "css"
+  },
+  {
+    "key": "FooterAndroid",
+    "value": "footer>div>nav>a.android>em[class='icon google-store']",
+    "type": "css"
+  },
+  {
+    "key": "FooterFacebook",
+    "value": "footer>div>nav>div.footer-social>a:nth-child(1)>em[class='icon icon-footer-facebook']",
+    "type": "css"
+  },
+  {
+    "key": "FooterTwitter",
+    "value": "footer>div>nav>div.footer-social>a:nth-child(2)>em[class='icon icon-footer-twitter']",
+    "type": "css"
+  },
+  {
+    "key": "FooterInstagram",
+    "value": "footer>div>nav>div.footer-social>a:nth-child(3)>em[class='icon icon-footer-instagram']",
+    "type": "css"
+  },
+  {
+    "key": "FooterYoutube",
+    "value": "footer>div>nav>div.footer-social>a:nth-child(4)>em[class='icon icon-footer-youtube']",
+    "type": "css"
+  },
+  {
+    "key": "FooterYardım",
+    "value": "footer_link_sss",
+    "type": "id"
   }
 ]
