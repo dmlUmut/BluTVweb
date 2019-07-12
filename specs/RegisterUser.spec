@@ -30,8 +30,8 @@ Yeni üye şifre alanını kontrolü
 *"1234" üye şifresini yaz
 *"btnRegister" elementine tıkla
 *"10" saniye bekle
-/*"popupEksikKarakter" elementi var mı
+*"popupEksikKarakter" elementi var mı
 *"56" üye şifresini yaz
 *"10" saniye bekle
-/*"popupSifrenizHata" elementi var mı
+*"popupSifrenizHata" elementi var mı
 *"d" üye şifresini yaz

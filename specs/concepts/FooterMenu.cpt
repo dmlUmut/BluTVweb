@@ -3,7 +3,7 @@
 
 #Kupon Kodu sayfasını kontrol et
 *"KuponCall" elementinin "textContent" niteliği "Müşteri Hizmetleri 0850 210 52 58" değerine eşit mi
-/*"titleKuponSayfası" elementi var mı
+*"titleKuponSayfası" elementi var mı
 *"titleKuponSayfasıContainer" elementi var mı
 
 #Gizlilik Politikası sayfasını kontrol et

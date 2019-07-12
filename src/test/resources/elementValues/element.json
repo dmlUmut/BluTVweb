@@ -467,12 +467,12 @@
   {
     "key": "SearchPageTumu",
     "value": "search-result-tumu",
-    "type": "css"
+    "type": "id"
   },
   {
     "key": "SearchPageFilm",
     "value": "search-result-movies",
-    "type": "css"
+    "type": "id"
   },
   {
     "key": "txtSearchPage",
@@ -482,12 +482,12 @@
   {
     "key": "SearchPageDizi",
     "value": "search-result-series",
-    "type": "css"
+    "type": "id"
   },
   {
     "key": "SearchPageYonetmen",
     "value": "search-result-person",
-    "type": "css"
+    "type": "id"
   },
   {
     "key": "SearchPageClose",
@@ -537,12 +537,12 @@
   {
     "key": "popupEksikKarakter",
     "value": "div>label.item.item-focus.item-stacked.col-p-12.col-tp-4.col-tl-4.col-d-4.has-error>span:nth-child(5)",
-    "type": "id"
+    "type": "css"
   },
   {
     "key": "popupSifrenizHata",
     "value": "div>label.item.item-focus.item-stacked.col-p-12.col-tp-4.col-tl-4.col-d-4.has-error>span:nth-child(4)",
-    "type": "id"
+    "type": "css"
   },
   {
     "key": "FormCheckbox",
@@ -672,7 +672,7 @@
   {
     "key": "titleKuponSayfası",
     "value": "div.account-upside",
-    "type": "id"
+    "type": "css"
   },
   {
     "key": "titleKuponSayfasıContainer",

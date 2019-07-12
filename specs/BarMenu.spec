@@ -239,9 +239,15 @@ Tags: Arama
 *"10" saniye bekle
 *"Searchbar" elementine "a" değerini yaz
 *"10" saniye bekle
+*"SearchPageTumu" elementi var mı
+*"SearchPageFilm" elementi var mı
 *"SearchPageClose" elementi var mı
 *"txtSearchPage" elementine "m" değerini yaz
 *"10" saniye bekle
+*"SearchPageTumu" elementi var mı
+*"SearchPageFilm" elementi var mı
+*"SearchPageDizi" elementi var mı
+*"SearchPageYonetmen" elementi var mı
 *"SearchPageClose" elementi var mı
 *"SearchPageClose" elementine tıkla
 *Çıkış yap
