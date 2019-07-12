@@ -20,6 +20,11 @@
     "type": "id"
   },
   {
+  "key": "btnUyeOl",
+  "value": "loginform_registerbutton",
+  "type": "id"
+  },
+  {
     "key": "BluTVlogo",
     "value": "div>a[class='blutv-logo white imageload']",
     "type": "css"
@@ -643,5 +648,265 @@
     "key": "FooterYardım",
     "value": "footer_link_sss",
     "type": "id"
+  },
+  {
+    "key": "FooterGenel",
+    "value": "body>footer>div.default-footer.static",
+    "type": "css"
+  },
+  {
+    "key": "KuponCall",
+    "value": "div.callcenter",
+    "type": "css"
+  },
+  {
+    "key": "txtKuponKod",
+    "value": "getcouponform_couponcode",
+    "type": "id"
+  },
+  {
+    "key": "btnKuponSubmit",
+    "value": "getcouponform_submit",
+    "type": "id"
+  },
+  {
+    "key": "titleKuponSayfası",
+    "value": "div.account-upside",
+    "type": "id"
+  },
+  {
+    "key": "titleKuponSayfasıContainer",
+    "value": "div.account-featured>div.container",
+    "type": "css"
+  },
+  {
+    "key": "PageBaslik",
+    "value": "div.content-head>h2",
+    "type": "css"
+  },
+  {
+    "key": "GizlilikPageLink",
+    "value": "div>p:nth-child(2)>a[href='https://www.blutv.com.tr']",
+    "type": "css"
+  },
+  {
+    "key": "YardımPageBizeUlasin",
+    "value": "contact_link",
+    "type": "id"
+  },
+  {
+    "key": "btnHakkında",
+    "value": "a[href='/hc/tr/sections/115000514005-BluTV-Hakk%C4%B1nda']",
+    "type": "css"
+  },
+  {
+    "key": "btnHesapYönetimi",
+    "value": "a[href='/hc/tr/sections/115000527369-Hesap-Y%C3%B6netimi']",
+    "type": "css"
+  },
+  {
+    "key": "btnTeknik",
+    "value": "a[href='/hc/tr/sections/115000540545-Teknik-Sorunlar']",
+    "type": "css"
+  },
+  {
+    "key": "btnCihazlar",
+    "value": "a[href='/hc/tr/sections/115000527389-Cihazlar']",
+    "type": "css"
+  },
+  {
+    "key": "btnKurumsal",
+    "value": "a[href='/hc/tr/sections/115000527489-Kurumsal']",
+    "type": "css"
+  },
+  {
+    "key": "makaleNedir",
+    "value": "a[href='/hc/tr/articles/115001651409-BluTV-Nedir-']",
+    "type": "css"
+  },
+  {
+    "key": "makaleNasılSatınalabilirim",
+    "value": "a[href='/hc/tr/articles/115002142029-BluTV-yi-nas%C4%B1l-sat%C4%B1n-alabilirim-']",
+    "type": "css"
+  },
+  {
+    "key": "iletisimPageTitle",
+    "value": "div.content-head>h2[class='translate-cloak']",
+    "type": "css"
+  },
+  {
+    "key": "iletisimBilgilendirme",
+    "value": "a[class='translate-cloak']",
+    "type": "css"
+  },
+  {
+    "key": "PopupClose",
+    "value": "button[class='close']",
+    "type": "css"
+  },
+  {
+    "key": "PopupTitle",
+    "value": "h4[class='modal-title']",
+    "type": "css"
+  },
+  {
+    "key": "PopupBody",
+    "value": "div.modal-body",
+    "type": "css"
+  },
+  {
+    "key": "PopupİlkeLink",
+    "value": "div.modal-body>p>a[href='/aydinlatma-ilkeleri']",
+    "type": "css"
+  },
+  {
+    "key": "PopupPolitikaLink",
+    "value": "div.modal-body>p>a[href='/gizlilik-politikasi']",
+    "type": "css"
+  },
+  {
+    "key": "txtIletisimAd",
+    "value": "contactform_name",
+    "type": "id"
+  },
+  {
+    "key": "txtIletisimSoyad",
+    "value": "contactform_lastname",
+    "type": "id"
+  },
+  {
+    "key": "txtIletisimTelefon",
+    "value": "contactform_phone",
+    "type": "id"
+  },
+  {
+    "key": "txtIletisimEposta",
+    "value": "contactform_email",
+    "type": "id"
+  },
+  {
+    "key": "txtIletisimMesaj",
+    "value": "contactform_message",
+    "type": "id"
+  },
+  {
+    "key": "btnIletisim",
+    "value": "contactform_submit",
+    "type": "id"
+  },
+  {
+    "key": "AboutPageTitle",
+    "value": "header>h1",
+    "type": "css"
+  },
+  {
+    "key": "AboutPageList",
+    "value": "div>section>ul[class='article-list']",
+    "type": "css"
+  },
+  {
+    "key": "AboutFirstLink",
+    "value": "section>ul>li:nth-child(1)",
+    "type": "css"
+  },
+  {
+    "key": "MakaleSolList",
+    "value": "section>h3[class='collapsible-sidebar-title sidenav-title']",
+    "type": "css"
+  },
+  {
+    "key": "MakaleAltList",
+    "value": "article>section.article-relatives>section[class='related-articles']",
+    "type": "css"
+  },
+  {
+    "key": "MakaleBody",
+    "value": "article>section[class='article-info']",
+    "type": "css"
+  },
+  {
+    "key": "btnTalepSubmit",
+    "value": "div.article-more-questions>a[href='/hc/tr/requests/new']",
+    "type": "css"
+  },
+  {
+    "key": "TalepEmail",
+    "value": "input[name='request[anonymous_requester_email]']",
+    "type": "css"
+  },
+  {
+    "key": "TalepKonu",
+    "value": "request_subject",
+    "type": "id"
+  },
+  {
+    "key": "TalepAciklama",
+    "value": "request_description",
+    "type": "id"
+  },
+  {
+    "key": "DosyaEkle",
+    "value": "request-attachments",
+    "type": "id"
+  },
+  {
+    "key": "TalepGönder",
+    "value": "div.form>form[class='request-form']>footer>input[value='Gönder']",
+    "type": "css"
+  },
+  {
+    "key": "SuccefullTalep",
+    "value": "body>div.notification.notification-notice",
+    "type": "css"
+  },
+  {
+    "key": "SuccefullTalepTitle",
+    "value": "body>div.notification.notification-notice>div>span.notification-text",
+    "type": "css"
+  },
+  {
+    "key": "SuccefullTalepClose",
+    "value": "div>a[class='notification-dismiss']",
+    "type": "css"
+  },
+  {
+    "key": "NewUserTitle",
+    "value": "div.col-p-12.col-tp-6.col-tl-7.col-d-7>h2[class='register-title']",
+    "type": "css"
+  },
+  {
+    "key": "OldUserLogin",
+    "value": "registerform_loginbutton",
+    "type": "id"
+  },
+  {
+    "key": "txtRegFirst",
+    "value": "registerform_firstname",
+    "type": "id"
+  },
+  {
+    "key": "txtRegLast",
+    "value": "registerform_lastname",
+    "type": "id"
+  },
+  {
+    "key": "txtRegEmail",
+    "value": "registerform_email",
+    "type": "id"
+  },
+  {
+    "key": "txtRegPass",
+    "value": "registerform_password",
+    "type": "id"
+  },
+  {
+    "key": "txtRegPassCheck",
+    "value": "registerform_passwordcheck",
+    "type": "id"
+  },
+  {
+    "key": "SozlesmeBodyLink",
+    "value": "div.modal-body>div>p>p:nth-child(2)>a",
+    "type": "css"
   }
 ]

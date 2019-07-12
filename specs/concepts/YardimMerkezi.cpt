@@ -1,0 +1,114 @@
+#Yardım Merkezi sayfasını aç
+*"FooterYardım" elementine tıkla
+
+#Bize Ulaşın sayfasını kontrol et
+*"YardımPageBizeUlasin" elementi var mı
+*"YardımPageBizeUlasin" elementine tıkla
+*"btnFilm" elementi var mı
+*"btnDizi" elementi var mı
+*"btnCocuk" elementi var mı
+*"btnCanli" elementi var mı
+*"btnKirala" elementi var mı
+*"Searchbar" elementi var mı
+*"iletisimPageTitle" elementinin "textContent" niteliği "İLETİŞİM" değerine eşit mi
+
+
+#İletisim Bilgileri bilgilendirmesi popupını kontrol et
+*"iletisimBilgilendirme" elementi var mı
+*"iletisimBilgilendirme" elementinin "text" niteliği "İletişim Bilgilerimi Neden paylaşıyorum?" değerine eşit mi
+*"iletisimBilgilendirme" elementine tıkla
+*"PopupClose" elementi var mı
+*"PopupTitle" elementinin "textContent" niteliği "İletişim Bilgilerimi Neden paylaşıyorum?" değerine eşit mi
+*"PopupBody" elementi var mı
+*"PopupİlkeLink" elementi var mı
+*"PopupİlkeLink" elementine tıkla
+*"10" saniye bekle
+*"PageBaslik" elementinin "textContent" niteliği "AYDINLATMA İLKELERİ" değerine eşit mi
+*"FooterYardım" elementine tıkla
+*"YardımPageBizeUlasin" elementine tıkla
+*"iletisimBilgilendirme" elementine tıkla
+*"PopupPolitikaLink" elementi var mı
+*"PopupPolitikaLink" elementine tıkla
+*"10" saniye bekle
+*"PageBaslik" elementinin "textContent" niteliği "GİZLİLİK POLİTİKASI" değerine eşit mi
+*"FooterYardım" elementine tıkla
+*"YardımPageBizeUlasin" elementine tıkla
+
+#İletisim Formu gönder
+*"txtIletisimAd" elementine "Damla" değerini yaz
+*"txtIletisimSoyad" elementine "Şeker" değerini yaz
+*"txtIletisimTelefon" elementine "5459576562" değerini yaz
+*"txtIletisimEposta" elementine "dml.umut@hotmail.com" değerini yaz
+*"txtIletisimMesaj" elementine "Bu mesaj otomasyon testi için gönderilmiştir" değerini yaz
+*"btnIletisim" elementine tıkla
+*"PopupClose" elementi var mı
+*"PopupTitle" elementinin "textContent" niteliği "Bilgi" değerine eşit mi
+*"PopupBody" elementi var mı
+*"PopupClose" elementine tıkla
+
+#BluTV hakkında sayfasını kontrol et
+*"btnHakkında" elementi var mı
+*"btnHakkında" elementine tıkla
+*"YardımPageBizeUlasin" elementi var mı
+*"AboutPageTitle" elementi var mı
+*"AboutPageList" elementi var mı
+*"AboutFirstLink" elementi var mı
+
+#Hesap Yönetimi sayfasını kontrol et
+*"btnHesapYönetimi" elementi var mı
+*"btnHesapYönetimi" elementine tıkla
+*"YardımPageBizeUlasin" elementi var mı
+*"AboutPageTitle" elementi var mı
+*"AboutPageList" elementi var mı
+*"AboutFirstLink" elementi var mı
+
+#Teknik Sorunlar sayfasını kontrol et
+*"btnTeknik" elementi var mı
+*"btnTeknik" elementine tıkla
+*"YardımPageBizeUlasin" elementi var mı
+*"AboutPageTitle" elementi var mı
+*"AboutPageList" elementi var mı
+*"AboutFirstLink" elementi var mı
+
+#Cihazlar sayfasını kontrol et
+*"btnCihazlar" elementi var mı
+*"btnCihazlar" elementine tıkla
+*"YardımPageBizeUlasin" elementi var mı
+*"AboutPageTitle" elementi var mı
+*"AboutPageList" elementi var mı
+*"AboutFirstLink" elementi var mı
+
+#Kurumsal sayfasını kontrol et
+*"btnKurumsal" elementi var mı
+*"btnKurumsal" elementine tıkla
+*"YardımPageBizeUlasin" elementi var mı
+*"AboutPageTitle" elementi var mı
+*"AboutPageList" elementi var mı
+*"AboutFirstLink" elementi var mı
+
+#Makale sayfasını kontrol et
+*"makaleNedir" elementi var mı
+*"makaleNedir" elementine tıkla
+*"MakaleSolList" elementi var mı
+*"AboutPageTitle" elementi var mı
+*"MakaleAltList" elementi var mı
+*"MakaleBody" elementi var mı
+*"btnTalepSubmit" elementi var mı
+
+#Talep gönderme sayfasını kontrol et
+*"btnTalepSubmit" elementine tıkla
+*"YardımPageBizeUlasin" elementi var mı
+
+#Talep gönder
+*"TalepEmail" elementine tıkla
+*"TalepEmail" elementine "dml.umut@hotmail.com" değerini yaz
+*"TalepKonu" elementine "Otomasyon" değerini yaz
+*"TalepAciklama" elementine "Otomasyon testi için yapılan açıklama kısmı" değerini yaz
+*"DosyaEkle" elementi var mı
+*"TalepGönder" elementine tıkla
+*"SuccefullTalep" elementi var mı
+*"SuccefullTalepTitle" elementi var mı
+*"SuccefullTalepTitle" elementinin "textContent" niteliği "Talebiniz başarıyla alındı." değerine eşit mi
+*"SuccefullTalepClose" elementi var mı
+*"SuccefullTalepClose" elementine tıkla
+*"YardımPageBizeUlasin" elementi var mı

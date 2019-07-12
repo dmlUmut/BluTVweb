@@ -28,3 +28,45 @@
 *"SessionPopupClose" elementine tıkla
 *"BluTVlogo" elementi var mı
 *"UyeEmail" elementinin "textContent" niteliği "dml.umut@hotmail.com" değerine eşit mi
+
+#Yeni kullanıcı oluşturma sayfasını kontrol et
+*"UyeGirisi" elementine tıkla
+*"btnUyeOl" elementi var mı
+*"btnUyeOl" elementine tıkla
+*"NewUserTitle" elementi var mı
+*"NewUserTitle" elementinin "textContent" niteliği "Üyeliğini Başlat" değerine eşit mi
+*"KuponCall" elementi var mı
+*"btnUyelikSozlesme" elementi var mı
+*"btnIletisimIzni" elementi var mı
+/*"OldUserLogin" elementi var mı
+
+#Yeni kullanıcı sayfası popuplarını kontrol et
+*"btnUyelikSozlesme" elementine tıkla
+*"PopupTitle" elementinin "textContent" niteliği "Üyelik Sözleşmesi" değerine eşit mi
+*"SozlesmeBodyLink" elementi var mı
+*"PopupBody" elementi var mı
+*"PopupClose" elementine tıkla
+*"btnIletisimIzni" elementi var mı
+*"PopupBody" elementi var mı
+*"PopupClose" elementine tıkla
+
+#Yeni kullanıcı oluşturmayı kontrol et
+*"txtRegFirst" elementine "Otomasyon" değerini yaz
+*"txtRegLast" elementine "Test" değerini yaz
+*"txtRegEmail" elementine "otomasyontest@hotmail.com" değerini yaz
+*"txtRegPass" elementine "123456dml" değerini yaz
+*"txtRegPassCheck" elementine "123456dml" değerini yaz
+*"FormCheckbox" elementine tıkla
+*"btnRegister" elementine tıkla
+
+#Yeni kullanıcı popup link kontrolü
+*"btnUyelikSozlesme" elementine tıkla
+*"SozlesmeBodyLink" elementi var mı
+*"SozlesmeBodyLink" elementine tıkla
+*"UyeGirisi" elementine tıkla
+*"btnUyeOl" elementine tıkla
+*"NewUserTitle" elementi var mı
+*"NewUserTitle" elementinin "textContent" niteliği "Üyeliğini Başlat" değerine eşit mi
+*"KuponCall" elementi var mı
+*"btnUyelikSozlesme" elementi var mı
+*"btnIletisimIzni" elementi var mı

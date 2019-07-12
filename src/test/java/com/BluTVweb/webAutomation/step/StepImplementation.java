@@ -6,13 +6,7 @@ import com.BluTVweb.webAutomation.helper.ElementHelper;
 import com.BluTVweb.webAutomation.helper.StoreHelper;
 import com.BluTVweb.webAutomation.model.ElementInfo;
 import com.thoughtworks.gauge.Step;
-import com.thoughtworks.gauge.Table;
-import com.thoughtworks.gauge.TableRow;
-
-import java.util.HashSet;
-import java.util.List;
 import org.junit.Assert;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
@@ -20,8 +14,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-
-import static org.assertj.core.api.Assertions.assertThat;
+import java.util.List;
 
 public class StepImplementation extends BaseTest {
 
@@ -150,6 +143,11 @@ public class StepImplementation extends BaseTest {
 
             againCount++;
         }
+    }
+
+    @Step({"<key> elementinin text alanını temizle" })
+    public void clearInputArea(String key){
+        findElement(key).clear();
     }
 
     @Step({"<milisaniye> milisaniye bekle",

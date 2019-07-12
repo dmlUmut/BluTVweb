@@ -32,6 +32,21 @@ Tags: Remember Me Control
 *Beni Hatırla butonunu kontrol et
 *Çıkış yap
 
+Create User Control
+----------
+Tags: New User
+
+*Yeni kullanıcı oluşturma sayfasını kontrol et
+*Yeni kullanıcı sayfası popuplarını kontrol et
+*Yeni kullanıcı oluşturmayı kontrol et
+
+Uyelik Sozlesmesi link kontrol
+----------------
+Tags: Link Control
+
+*Yeni kullanıcı oluşturma sayfasını kontrol et
+*Yeni kullanıcı popup link kontrolü
+
 Session Ended Control
 -----------
 Tags: Session Control

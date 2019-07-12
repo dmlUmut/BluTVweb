@@ -1,0 +1,37 @@
+#FooterMenü çerçeve kontrolü
+*"FooterGenel" elementi var mı
+
+#Kupon Kodu sayfasını kontrol et
+*"KuponCall" elementinin "textContent" niteliği "Müşteri Hizmetleri 0850 210 52 58" değerine eşit mi
+/*"titleKuponSayfası" elementi var mı
+*"titleKuponSayfasıContainer" elementi var mı
+
+#Gizlilik Politikası sayfasını kontrol et
+*"FooterGizlilik" elementine tıkla
+*"PageBaslik" elementinin "textContent" niteliği "GİZLİLİK POLİTİKASI" değerine eşit mi
+*"btnFilm" elementi var mı
+*"btnDizi" elementi var mı
+*"btnCocuk" elementi var mı
+*"btnCanli" elementi var mı
+*"btnKirala" elementi var mı
+*"Searchbar" elementi var mı
+
+#Aydınlatma İlkeleri sayfasını kontrol et
+*"FooterAydınlatma" elementine tıkla
+*"PageBaslik" elementinin "textContent" niteliği "AYDINLATMA İLKELERİ" değerine eşit mi
+*"btnFilm" elementi var mı
+*"btnDizi" elementi var mı
+*"btnCocuk" elementi var mı
+*"btnCanli" elementi var mı
+*"btnKirala" elementi var mı
+*"Searchbar" elementi var mı
+*"BluTVlogo" elementine tıkla
+
+#Yardım Merkezi sayfasını kontrol et
+*"FooterYardım" elementine tıkla
+*"YardımPageBizeUlasin" elementinin "textContent" niteliği "Bize Ulaşın" değerine eşit mi
+*"btnHakkında" elementi var mı
+*"btnHesapYönetimi" elementi var mı
+*"btnTeknik" elementi var mı
+*"btnCihazlar" elementi var mı
+*"btnKurumsal" elementi var mı
